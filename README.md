@@ -153,8 +153,7 @@ UselessTube
 
 ### 1. Initial Loading Interface
 
-![Screenshot1](<img width="1534" height="776" alt="Screenshot 2026-09-12 052411" src="https://github.com/user-attachments/assets/6b0e9e4c-31f1-49db-a11f-5ff6c75b37f2" />
-)
+![Screenshot1](https://github.com/mrvpmuhammedrahoof-source/uselesstube/blob/main/Screenshot%202026-09-12%20052346.png)
 
 *The main UselessTube interface with the loading spinner, category navigation, sidebar, and animated skeleton video cards.*
 
@@ -163,12 +162,6 @@ UselessTube
 ![Screenshot2](https://github.com/mrvpmuhammedrahoof-source/uselesstube/blob/main/Screenshot%202026-09-12%20052411.png)
 
 *Placeholder video thumbnails and text elements simulate a real video platform while pretending to load content.*
-
-### 3. Failed Loading State
-
-![Screenshot3](screenshot-error.png)
-
-*The intentionally useless error state appears when no video data is loaded, with a Try Again button.*
 
 ---
 
