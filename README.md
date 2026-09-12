@@ -153,13 +153,14 @@ UselessTube
 
 ### 1. Initial Loading Interface
 
-![Screenshot1](screenshot-loading.png)
+![Screenshot1](<img width="1534" height="776" alt="Screenshot 2026-09-12 052411" src="https://github.com/user-attachments/assets/6b0e9e4c-31f1-49db-a11f-5ff6c75b37f2" />
+)
 
 *The main UselessTube interface with the loading spinner, category navigation, sidebar, and animated skeleton video cards.*
 
 ### 2. Loading Skeleton
 
-![Screenshot2](screenshot-skeleton.png)
+![Screenshot2](https://github.com/mrvpmuhammedrahoof-source/uselesstube/blob/main/Screenshot%202026-09-12%20052411.png)
 
 *Placeholder video thumbnails and text elements simulate a real video platform while pretending to load content.*
 
